@@ -1,6 +1,6 @@
-# Projeto TDD com JUnit e Lombok
+# Exercícios TDD com JUnit
 
-Este projeto contém três exercícios desenvolvidos com **Test Driven Development (TDD)** utilizando **JUnit 5** e **Lombok**.  
+Três exercícios desenvolvidos com **Test Driven Development (TDD)** utilizando **JUnit 5** e **Lombok**.  
 Cada exercício aborda um cenário prático de desenvolvimento orientado a testes em Java.
 
 ---
