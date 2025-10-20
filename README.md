@@ -1,6 +1,6 @@
-# Java Test Exercises 🧪
+# Java/Python Test Exercises 🧪
 
-Repositório para gaurdar o exercícios de java das aulas de Qualidade e Teste de Software
+Repositório para gaurdar o exercícios de Java e Python das aulas de Qualidade e Teste de Software
 
 ## 🔀 Branches disponíveis
 
@@ -15,4 +15,8 @@ Explore os exercícios em diferentes contextos acessando as branches abaixo:
 ## 🛠️ Tecnologias utilizadas
 
 - Java
-- JUnit (para testes)
+- JUnit
+- Python
+- Pytest
+- Pytest-mock
+- Pytest-cov
